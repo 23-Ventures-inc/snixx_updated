@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://snixx.23ventures.in/sitemap.xml
